@@ -21,8 +21,7 @@ public class NomeDoUsuario {
         // Calcula o número de letras (replaceAll  some com todos os espacos em branco "\\s" e "" string vazia
         int numeroDeLetras = nomeCompleto.replaceAll("\\s", "").length();
 
-        // Exiba o nome completo e o número de letras
-
+        // Exibe o nome completo e o número de letras
         System.out.println("Seu nome completo é: " + nomeCompleto);
         System.out.println("Seu nome completo tem " + numeroDeLetras + " letras.");
 
