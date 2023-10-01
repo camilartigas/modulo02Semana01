@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8d0ed8f1-3142-42d5-90c1-488e08778d3e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/exercicio02/CalculadoraIMC.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/exercicio01/NomeDoUsuario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercicio01/NomeDoUsuario.java" afterDir="false" />
-    </list>
+    <list default="true" id="8d0ed8f1-3142-42d5-90c1-488e08778d3e" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,6 +43,7 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;proofread&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
   &quot;keyToStringList&quot;: {
@@ -64,7 +61,10 @@
       <option name="presentableId" value="Default" />
       <updated>1695919555923</updated>
       <workItem from="1695919556963" duration="1868000" />
-      <workItem from="1695921501019" duration="1919000" />
+      <workItem from="1695921501019" duration="2190000" />
+      <workItem from="1695990511012" duration="597000" />
+      <workItem from="1696005893863" duration="1393000" />
+      <workItem from="1696166893135" duration="1499000" />
     </task>
     <servers />
   </component>
