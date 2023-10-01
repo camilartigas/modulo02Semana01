@@ -8,9 +8,7 @@ public class ParOuImpar {
         Scanner scanner = new Scanner(System.in);
 
         System.out.println("Digite um número");
-        String numString = scanner.nextLine();
-
-        int numero = Integer.parseInt(numString);
+        int numero = scanner.nextInt();
 
         if  (numero %2 == 0){
             System.out.println("O número que você digitou é par!");
@@ -18,7 +16,6 @@ public class ParOuImpar {
             System.out.println("O número que você digitou é impar!");
         }
 
-
-
+        scanner.close();
     }
 }
