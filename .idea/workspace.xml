@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8d0ed8f1-3142-42d5-90c1-488e08778d3e" name="Changes" comment="" />
+    <list default="true" id="8d0ed8f1-3142-42d5-90c1-488e08778d3e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/exercicio09/ReajusteDeSalario.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -66,7 +68,7 @@
       <workItem from="1696005893863" duration="1393000" />
       <workItem from="1696166893135" duration="4263000" />
       <workItem from="1696210753847" duration="60000" />
-      <workItem from="1696891306160" duration="4764000" />
+      <workItem from="1696891306160" duration="5926000" />
     </task>
     <servers />
   </component>
